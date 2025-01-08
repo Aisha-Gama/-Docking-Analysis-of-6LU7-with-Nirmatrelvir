@@ -7,12 +7,6 @@ This project is currently under development. I am practicing molecular docking u
 ---
 
 ## Overview  
-This project involves the molecular docking analysis...
-This project is part of my practice in molecular docking techniques. I am following tutorials and experimenting with tools like AutoDock Vina and PyMOL. Suggestions and feedback are welcome as I continue to learn and refine my skills!
-
----
-
-## Overview  
 This project involves the molecular docking analysis of the SARS-CoV-2 main protease (PDB ID: 6LU7) with the antiviral drug **Nirmatrelvir**. The main protease (Mpro) plays a critical role in the replication and transcription of SARS-CoV-2, making it an essential target for antiviral drug development. Nirmatrelvir, a key component of the COVID-19 oral therapeutic Paxlovid, has shown high efficacy in inhibiting Mpro.
 
 The goal of this project is to visualize and evaluate the binding interactions between 6LU7 and Nirmatrelvir, providing insights into the structural basis of its inhibition.
